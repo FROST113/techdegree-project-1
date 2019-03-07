@@ -86,7 +86,7 @@ header .profile-image:hover {
   border: solid 2px black;
 } 
 .location {
-  background-color: white;
+  background-color: rgb(255,69,0);
   color: black;
 }
 .card {
